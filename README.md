@@ -1,4 +1,4 @@
-# Regression Demo
+# RedisSession Demo
 
 This is a demo project showcasing a redisdemosession
 
